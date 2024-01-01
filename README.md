@@ -1,8 +1,8 @@
-<div style="font-size:48px">Go-crypt</div>
+<p style="font-size:48px">Go-crypt</p>
 My personal crypt tool.
 
 ## Encryption method
-This program using AES specification. You can use 192 or 256 key length to encrypt the file. Make sure the generate a key file first. To generate key file, go to [generate key](##generate-key) section for more info.
+This program using AES specification. You can use 192 or 256 key length to encrypt the file. Make sure the generate a key file first. To generate key file, go to [generate key](#generate-key) section for more info.
 
 ## Encrypting file
 To Encrypt a file : 
