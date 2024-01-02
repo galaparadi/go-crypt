@@ -1,4 +1,4 @@
-<p style="font-size:48px">Go-crypt</p>
+<h1 style="font-size:48px">Go-crypt</h1>
 My personal crypt tool.
 
 ## Encryption method
